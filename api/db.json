@@ -6,17 +6,18 @@
       "id": 1
     },
     {
-      "movementName": "squat",
+      "movementName": "bench",
       "movementWeight": "200",
       "id": 2
     },
     {
       "movementName": "bench",
-      "movementWeight": "250",
+      "movementWeight": "200",
       "id": 3
     },
     {
       "movementName": "bench",
+      "movementWeight": "300",
       "id": 4
     }
   ]
