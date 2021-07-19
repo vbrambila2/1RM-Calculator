@@ -1,5 +1,23 @@
 {
   "movements": [
-
+    {
+      "movementName": "bench",
+      "movementWeight": "100",
+      "id": 1
+    },
+    {
+      "movementName": "squat",
+      "movementWeight": "200",
+      "id": 2
+    },
+    {
+      "movementName": "bench",
+      "movementWeight": "250",
+      "id": 3
+    },
+    {
+      "movementName": "bench",
+      "id": 4
+    }
   ]
 }
