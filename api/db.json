@@ -1,104 +1,19 @@
 {
   "movements": [
     {
-      "movementName": "d",
-      "movementWeight": "2",
+      "movementName": "bench press",
+      "movementWeight": "100",
       "id": 1
     },
     {
-      "movementName": "f",
-      "movementWeight": "3",
+      "movementName": "bench press",
+      "movementWeight": "100",
       "id": 2
     },
     {
-      "movementName": "jh",
-      "movementWeight": "77",
+      "movementName": "bench press",
+      "movementWeight": "100",
       "id": 3
-    },
-    {
-      "movementName": "hj",
-      "movementWeight": "66",
-      "id": 4
-    },
-    {
-      "movementName": "bench",
-      "movementWeight": "12",
-      "id": 5
-    },
-    {
-      "movementName": "bench",
-      "movementWeight": "11",
-      "id": 6
-    },
-    {
-      "movementName": "bbe",
-      "movementWeight": "12",
-      "id": 7
-    },
-    {
-      "movementName": "d2",
-      "movementWeight": "2",
-      "id": 8
-    },
-    {
-      "movementName": "e",
-      "movementWeight": "1",
-      "id": 9
-    },
-    {
-      "movementName": "df",
-      "movementWeight": "2",
-      "id": 10
-    },
-    {
-      "movementName": "d",
-      "movementWeight": "2",
-      "id": 11
-    },
-    {
-      "movementName": "df",
-      "movementWeight": "22",
-      "id": 12
-    },
-    {
-      "movementName": "df",
-      "movementWeight": "2",
-      "id": 13
-    },
-    {
-      "movementName": "df",
-      "movementWeight": "3",
-      "id": 14
-    },
-    {
-      "movementName": "d",
-      "movementWeight": "2",
-      "id": 15
-    },
-    {
-      "movementName": "df",
-      "movementWeight": "3",
-      "id": 16
-    },
-    {
-      "movementName": "df4",
-      "movementWeight": "44",
-      "id": 17
-    },
-    {
-      "movementName": "d",
-      "movementWeight": "3",
-      "id": 18
-    },
-    {
-      "movementName": "h",
-      "movementWeight": "1",
-      "id": 19
-    },
-    {
-      "movementName": "d",
-      "movementWeight": "2",
-      "id": 20
     }
   ]
 }
