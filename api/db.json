@@ -1,19 +1,4 @@
 {
   "movements": [
-    {
-      "movementName": "bench press",
-      "movementWeight": "100",
-      "id": 1
-    },
-    {
-      "movementName": "bench press",
-      "movementWeight": "100",
-      "id": 2
-    },
-    {
-      "movementName": "bench press",
-      "movementWeight": "100",
-      "id": 3
-    }
   ]
 }
