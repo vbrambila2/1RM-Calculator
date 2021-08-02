@@ -1,4 +1,9 @@
 {
   "movements": [
+    {
+      "movementName": "d",
+      "movementWeight": "3",
+      "id": 1
+    }
   ]
 }
